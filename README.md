@@ -1,4 +1,4 @@
-# Hotel_Booking
+# Hotel_Reservation
 
 Type: Binary Classification Hotel Booking prediction is a classic problem to learn and apply lots of data analysis techniques to create best Classification model.
 
